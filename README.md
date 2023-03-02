@@ -19,6 +19,10 @@ To use this project, you will need to install the following packages:
 - scikit-learn
 - xgboost
 
+## Certificate 
+
+<p align="center"><img src='https://raw.githubusercontent.com/AhmedUZaki/Football-Transfer-with-Gradient-Boosting-1000ML-Initiative/main/Certificate/Machine%20Learning%2C%201000ML%20Initiative.jpg' width="500"/>
+
 ## Credits
 
 This project was developed as a part of the 1000ML initiative. The dataset used in this project was collected and made available by Eng. [Hisham Asem](https://www.linkedin.com/in/heshamasem/)
