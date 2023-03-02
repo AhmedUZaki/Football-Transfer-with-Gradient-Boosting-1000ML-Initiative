@@ -1,4 +1,4 @@
-# Football Transfer with Gradient Boosting  | 1000ML Initiative
+# Football Transfer with Gradient Boosting  | 1000ML Engineer Initiative 
 
 This project is a part of the Machine Learning Track at the 1000ML Engineer Initiative and aims to predict football player transfer values using gradient-boosting algorithms.
 
